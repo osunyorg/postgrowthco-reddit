@@ -2,13 +2,19 @@
 
 en:
   title: >-
-    Reddit Suppresses Free Speech
+    Reddit Suppresses Gaza
   contentDir: content/en
   languageCode: en
   languageName: English
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            redditcensorshipgaza@proton.me
+          value: >-
+            mailto:redditcensorshipgaza@proton.me
 
   taxonomies:
     administrator: administrators
