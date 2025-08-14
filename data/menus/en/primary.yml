@@ -1,4 +1,25 @@
 ---
 title: Main menu
-items: []
+items:
+- title: Home
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/"
+  file: content/en/_index.html
+- title: Submit Evidence
+  target: "/submit-evidence/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/submit-evidence"
+  file: content/en/pages/submit-evidence/_index.html
+- title: Contact
+  target: "/contact-1/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/contact-1"
+  file: content/en/pages/contact-1/_index.html
 
